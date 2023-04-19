@@ -1,0 +1,38 @@
+.formtable{
+    background-color: rgba(0,0,0 ,0.5);
+    margin: 115px auto;
+    width: 400px;
+    color: beige;
+}
+body{
+background-image: url('ht');
+background-repeat: no-repeat ;
+background-position: center;
+background-size: 100% 100%;
+}
+
+.designusername{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    
+}
+.formtable
+h2,h3,h6{text-align: center;
+}
+.formtable
+h4{text-align: center;
+
+}
+.forgothref{
+    float: right;
+}
+.buttonstyle{
+    margin:40px ;
+    width: 300px;
+}
+input[type="text"]{
+    width: 300px;
+}
+input[type="password"]{
+    width: 300px;
+}

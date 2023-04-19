@@ -1,0 +1,18 @@
+p {
+    border: 3px red;
+}
+.body{
+  outline: 2px solid black;
+  min-height: 200px;
+  outline-offset: 5px;
+}
+h1{
+  text-align: center;
+  text-decoration-line: underline;
+  text-decoration-color: brown;
+  text-decoration-style: double;
+  text-decoration-thickness: 3px;
+  text-transform: uppercase;
+  
+
+}

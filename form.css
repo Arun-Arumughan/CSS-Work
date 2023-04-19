@@ -1,0 +1,55 @@
+body{
+    background-image: url('https://images.unsplash.com/photo-1589182373726-e4f658ab50f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80');
+    background-repeat: no-repeat;
+    background-position: center;
+    color: aliceblue;
+    
+}
+.formtable{
+    margin: 115px auto;
+    width: 500px;
+    background-color:rgba(0,0,0,0.5);
+    background-size: cover;
+    
+    
+}
+.head{
+    text-align: center;
+    background-color: rgba(0,0,0,0.5);    
+}
+.designusername{
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+.fn{
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+.in{
+    margin-left: 120px;
+    margin-bottom: 10px;
+}
+.company{
+    padding: 10px;
+}
+.Email{
+    padding: 10px;
+}
+.code{
+    margin-left: 40px;
+}
+.Ac{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.Pn{
+    margin-left: 100px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+ .button{
+    background-color: aqua;
+    padding: 10px;
+ }   
+
+

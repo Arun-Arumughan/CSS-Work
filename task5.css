@@ -1,0 +1,21 @@
+.cricket{
+    background-color: blue ;
+    margin-left: 400px;
+    margin-right: 300px;
+}
+.heaD{
+      margin-top: 200px;
+      color: beige;
+}
+.para{
+    margin: 100px;
+    text-align: justify;
+    max-width: 300px;
+    margin-top: 30px;
+    color: beige;
+    text-align: left;
+    }
+.photo{
+    float: right;
+    margin-top: -55px;
+}

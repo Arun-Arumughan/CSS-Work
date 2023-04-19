@@ -1,0 +1,8 @@
+.para{
+    outline: 2px solid black;
+    min-height: 300px;
+    outline-offset: 5px;
+}
+p{
+    border: 2px solid red;
+}
