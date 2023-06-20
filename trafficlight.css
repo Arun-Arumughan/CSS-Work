@@ -1,0 +1,40 @@
+.align{
+    display: block;
+    margin-top: 20px;
+    border-radius: 20px;
+    height: 100px;
+    width: 50px;
+    margin-left: 20px;
+    background-color: black;
+    color: white;
+}
+.align2{
+    display: block;
+    margin-top: 20px;
+    border-radius: 80px;
+    height: 150px;
+    width: 100px;
+    margin-left: 150px;
+    background-color: black;
+    color: white;
+    
+    
+    
+}
+.head{
+    margin-left: 400px;
+    
+}
+.main{
+    border: solid 2px green;
+    height: 600px;
+    width: 1000px;
+    background-color:rgb(185, 185, 255);
+    
+}
+/* .trafic{
+    border: solid 2px black;
+    height: 520px;
+    width: 400px;
+    background-color: grey;
+} */

@@ -1,0 +1,20 @@
+.task{
+    height: 200px;
+    width: 200px;
+    margin-left: 500px;
+}
+.main{
+    background-color: black;
+}
+.btn{
+    margin-left: 520px;
+    border: grey solid 3px;
+}  
+.btn1{
+    background-color: green;
+    color: beige;
+}
+.btn2{
+    background-color: red;
+    color: beige;
+}
